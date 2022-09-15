@@ -16,11 +16,11 @@ The Code - variables, commentaries and files generateds are in english <br>
 At this project the main objective are search the shortest route between 2 diferent points with any start and any destination, at the code you can change the variables that determine where you start and where you gonna stop. The cities are based in Romênia map. <br>
 
 ### How to Add your solutions:
-
-  * Fork this repo.
-  * Create a folder named with your github name.
-  * Create a folder named the problem num.
-  * Add your solution in the folder.
+<h4>
+  * Fork this repo. <br>
+  * Create a folder named with your github name.<br>
+  * Create a folder named the problem num.<br>
+  * Add your solution in the folder.<br><br>
 
 For example, if you wanna add a solution for problem 0001, you should do like this:
 
