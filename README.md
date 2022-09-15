@@ -14,11 +14,6 @@ English code description <br>
 The Code - variables, commentaries and files generateds are in english <br>
 
 At this project the main objective are search the shortest route between 2 diferent points with any start and any destination, at the code you can change the variables that determine where you start and where you gonna stop. The cities are based in Romênia map. <br>
-</h4>
-Show Me the Code Python version.
-
-
-======
 
 ### How to Add your solutions:
 
@@ -43,5 +38,6 @@ If all these steps done, send us an pull request. After we accept your request, 
 
 below is the flowchart which was used as the basis for developing the code:
 
+ </h4>
 
 ![Fluxograma Romenia](https://user-images.githubusercontent.com/106937501/190504950-b06ab5ff-4801-488c-aa62-464d4a69696f.png)
