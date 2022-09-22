@@ -7,6 +7,7 @@
 Language: Python <br>
 Event experiment: Search for the shortest route <br>
 Environment of development: Google colab <br>
+Description: this project was developed with the aim of generating the shortest paths to all points on the map, in this version the networkxs and matplotlib libraries are used to print the mini map produced, the numpy and pandas libraries were used to print the list of destinations
 <br><br>
 Interactivity on platform: <br>
 English code description <br>
